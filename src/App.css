@@ -1,0 +1,65 @@
+.App {
+  text-align: center;
+}
+.main-container {
+  text-align: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  border: 0.3rem solid blue;
+  padding: 1rem 0;
+  font-family: monospace;
+
+}
+
+.internal-container {
+  border: 0.8rem solid #abff31;
+  width: 30rem;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 1rem;
+  width: 90%;
+  padding-bottom: 1rem;
+}
+
+.flexbox {
+  border: 0.2rem solid #000000;
+  width: 50rem;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 90%;
+  padding-bottom: 0.5rem
+}
+h1,h2{
+  color:#97ccec;
+}
+h1{
+  font-size: 2.5rem;
+}
+h2 {
+  font-size: 2rem;
+}
+.flex {
+  justify-content: space-between;
+  text-align: center;
+  border-bottom: 0.2rem solid #000000;
+
+  display: flex;
+
+}
+
+.score {
+  color:#933233;
+  padding-right: 1rem;
+  font-size: 1rem;
+  font-weight: 800;
+ 
+}
+.name{
+margin-left: 5rem;
+font-weight: 800;
+font-size: 1rem;
+}
